@@ -25,9 +25,9 @@ with col1:
 with col2:
     st.markdown(
         """
-        **Nama:** _(isi nama anda)_  
-        **Bidang Pengajian:** _(isi bidang pengajian anda)_  
-        **Hobi:** _(isi hobi anda)_
+        **Nama:** _(Lok Teck Wei)_  
+        **Bidang Pengajian:** _(teknologi maklumat)_  
+        **Hobi:** _(baca buku)_
 
         Selamat datang ke aplikasi web ringkas saya! Aplikasi ini dibangunkan
         menggunakan **Streamlit** sebagai sebahagian daripada Aktiviti MK05.
